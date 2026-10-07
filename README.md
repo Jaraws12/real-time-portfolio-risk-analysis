@@ -58,12 +58,3 @@ GLD,3
 
 `app.py`, `data.py`, `risk.py`, `utils.py`, `portfolio.csv`, `requirements.txt`, `.env.example`, `README.md`
 
-## Demo
-
-* Watch the demo on Youtube
-
-[![Watch the demo](https://img.youtube.com/vi/qUH16xhL33k/hqdefault.jpg)](https://youtu.be/qUH16xhL33k "Watch the demo on YouTube")
-
-* Try it yourself
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://real-time-portfolio-risk-dashboard-4kkrglhbtu9pcj7wqdbf8a.streamlit.app)
